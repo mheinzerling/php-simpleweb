@@ -13,6 +13,8 @@ use Eloquent\Enumeration\AbstractEnumeration;
  * @method static Status Forbidden();
  * @method static Status Not_Found();
  * @method static Status Internal_Server_Error();
+ *
+ * @SuppressWarnings(PHPMD.ConstantNamingConventions)
  */
 class Status extends AbstractEnumeration
 {

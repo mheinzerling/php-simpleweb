@@ -64,12 +64,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/mheinzerling/php-stringutils.git",
-                "reference": "8c20b53fb3257f76d9cfa48f0eb217afc8ad9dcd"
+                "reference": "5a80f16dcc20e4f7b29089fc384f45b0f1edb845"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mheinzerling/php-stringutils/zipball/8c20b53fb3257f76d9cfa48f0eb217afc8ad9dcd",
-                "reference": "8c20b53fb3257f76d9cfa48f0eb217afc8ad9dcd",
+                "url": "https://api.github.com/repos/mheinzerling/php-stringutils/zipball/5a80f16dcc20e4f7b29089fc384f45b0f1edb845",
+                "reference": "5a80f16dcc20e4f7b29089fc384f45b0f1edb845",
                 "shasum": ""
             },
             "require": {
@@ -96,7 +96,7 @@
                 }
             ],
             "description": "StringUtils class is similar to Apache Commons StringUtils for Java. It will be extended incrementally.",
-            "time": "2016-12-08 05:07:36"
+            "time": "2016-12-30 15:05:44"
         }
     ],
     "packages-dev": [
