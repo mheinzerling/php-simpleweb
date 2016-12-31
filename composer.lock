@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "946375e981db56745346c29bba3260e3",
-    "content-hash": "b7167cee2d02835954545b74ffd5bbf3",
+    "hash": "30ceb7c6467d5e9015729d242eb18a04",
+    "content-hash": "1155ffc6cf4447b68d9aaee79842d2dc",
     "packages": [
         {
             "name": "eloquent/enumeration",
@@ -60,7 +60,7 @@
         },
         {
             "name": "mheinzerling/stringutils",
-            "version": "dev-master",
+            "version": "3.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mheinzerling/php-stringutils.git",
@@ -2181,7 +2181,6 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "mheinzerling/stringutils": 20,
         "codeclimate/php-test-reporter": 20
     },
     "prefer-stable": false,
