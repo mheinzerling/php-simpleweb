@@ -14,6 +14,12 @@ class SimpleRequest
         return $def;
     }
 
+    public static function getInt(string $key, int $def = null): ?int
+    {
+        if (self::hasGet($key) && is_numeric($_GET[$key])) return intval($_GET[$key]);
+        return $def;
+    }
+
     public static function post(string $key, string $def = null): ?string
     {
         if (self::hasPost($key)) return $_POST[$key];
