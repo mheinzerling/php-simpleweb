@@ -2,7 +2,7 @@
 
 #mheinzerling/simpleweb
 
-Minimal framework for request and response handling and a simple router. 
+Minimal framework for request and response handling, a simple router and form validation. 
 
 ##Composer
     "require": {
